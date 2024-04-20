@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GPT_2_Simple4d", "GPT_2_Simple4d\GPT_2_Simple4d.pyproj", "{3CA9E703-D19F-4A9A-B3E6-F2B014B3D9DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA9E703-D19F-4A9A-B3E6-F2B014B3D9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA9E703-D19F-4A9A-B3E6-F2B014B3D9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C805A7-CA97-43F5-A5E0-A773D8D35399}
+	EndGlobalSection
+EndGlobal
